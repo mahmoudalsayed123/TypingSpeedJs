@@ -1,0 +1,76 @@
+{
+    "easy" : {
+        "time" : 3,
+        "words" : [
+            "Html",
+            "Css",
+            "Javascript",
+            "Sass",
+            "Command",
+            "Git",
+            "Githup",
+            "React",
+            "Angular",
+            "Bootstrap",
+            "Love",
+            "Code",
+            "Play",
+            "Home",
+            "Go",
+            "speed",
+            "Alone",
+            "Leave",
+            "Count",
+            "Above"
+        ]
+    },
+    "normal" : {
+        "time" : 4,
+        "words" :[
+            "Runner",
+            "Playing",
+            "Catching",
+            "Styling",
+            "Coding",
+            "Working",
+            "Ecstatic",
+            "Colossat",
+            "Superb",
+            "Freezing",
+            "Languid",
+            "Arduous",
+            "Gallop",
+            "Cherish",
+            "Abhor",
+            "Devour",
+            "Repose",
+            "Author",
+            "Perceive"
+        ]
+    },
+    "hard" : {
+        "time" : 5,
+        "words" :[
+            "Abnegation",
+            "Aggrandize",
+            "Alacrity",
+            "Anachornistic",
+            "Archetypal",
+            "Ascetic",
+            "Beguile",
+            "Blandishment",
+            "Cajole",
+            "Callous",
+            "Camaraderie",
+            "Circumlocution",
+            "Circumlocution",
+            "Clamour",
+            "Cognizant",
+            "Construe",
+            "Convivial",
+            "Demagogue",
+            "Dengrate",
+            "Didactic"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>Typing Speed Test Game</title>
+</head>
+<body>
+    <h1>Typing Speed Test Game</h1>
+    <div class="container">
+        <p class="para">Your Are Playing [ <span class="level"></span>] And Your Have [<span class="time-level"></span>] For Write The Word</p>
+        <div class="rand-word"></div>
+        <div class="start-play">Start Playing</div>
+        <input class="input" type="text" name="type-speed-test">
+        <select class="type-level" id="type-level">
+            <option data-id="1" value="easy">easy</option>
+            <option data-id="2" value="normal">normal</option>
+            <option data-id="3" value="hard">hard</option>
+        </select>
+        <div class="upconming-word">Word In This Level</div>
+        <div class="controll">
+            <div class="timer">Time Left: <span class="time"></span> Sconds</div>
+            <div class="score">Your Score <span class="pro"></span> Form <span class="all-word"></span></div>
+        </div>
+    </div>
+    <div class="back-ground"></div>
+    <div class="instruction">
+        <h3>Instruction</h3>
+        <div class="level">level: <span class="spn-level"></span></div>
+        <div class="nums-word">Number Of Words: <span class="spn-nums-words"></span></div>
+        <div class="time-level">Time: <span class="spn-time-level"></span></div>
+        <div class="words"></div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+[1] Markup Html
+[2] Styling Css
+[3] Make Json File Contain Levels And Words
+[4] Creat The App Logic
+----[1] The User Choose Level Your Want Play At It
+----[2] Show For Him Construction Explain All things For this Level
+----[3] Show Div Say Him "Your Play in PLapla level And You Have a plapla time"
+----[4] in footer section show for him time and score pla form pla
+----[5] x click the Start Button
+----[6] I Remove Start Button
+----[7] stop copy and past in input field
+----[8] show random word depond on the level
+----[9] remove word from thier array by index and splice
+----[10] show upcoming word
+----[11] link time the level with word
+----[12] if x do not write the word in time show game over
+----[13] if x do write the word in time show good
+----[14] save score in local storage with date
+
+Sub-ideas
+[1] add 3 scond in first word
